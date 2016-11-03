@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GestureExample</string>
+    <string name="text_name">Hello Welcome</string>
+    <string name="button_text">Button Click</string>
+</resources>
